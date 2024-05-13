@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question": "My computer won't turn on. What should I do?",
+      "answer": "First, make sure the power cable is plugged in. Then, try pressing the power button again."
+    },
+    {
+      "question": "How can I speed up my computer?",
+      "answer": "You can try clearing temporary files, uninstalling unnecessary programs, or upgrading hardware components like RAM or SSD."
+    },
+    {
+      "question": "My computer is infected with malware. What should I do?",
+      "answer": "You should run a reputable antivirus program to scan and remove the malware. Make sure to keep your antivirus software updated."
+    },
+    {
+      "question": "I forgot my computer password. How can I reset it?",
+      "answer": "You can reset your computer password using password reset options provided by your operating system. Alternatively, you can use password recovery tools or contact support for assistance."
+    },
+
+    {
+        "question": "How to upgrade my computer ",
+        "answer": "Go to www.google.com"
+    },
+    {
+        "question": "How to change settings",
+        "answer": "Go to Link Menu"
+    }
+  ]
+}
