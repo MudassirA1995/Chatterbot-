@@ -1,5 +1,5 @@
 
-
+#This is the code for the Chatterbot chatbot.
 import sys
 import json
 import random
